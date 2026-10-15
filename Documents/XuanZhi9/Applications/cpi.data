@@ -1,0 +1,309 @@
+{
+    "builtinAds": [
+        {
+            "offerId": 143143,
+            "partner": "待定",
+            "income": "0",
+            "clickUrl": "com.dynastysoul.ld",
+            "titleName": "Dynasty Soul",
+            "bubbleText": "Endless hack & slash brawler",
+            "imageUrl": "https://res.ldrescdn.com/rms/upload/ad/35ou4ws4ce7-1777282485.jpg",
+            "imageUrl2": "https://res.ldrescdn.com/rms/upload/ad/cvnnsi4t9uh-1777282509.jpg",
+            "appSimpleDesc": "Endless hack & slash brawler",
+            "banner": "https://res.ldrescdn.com/rms/upload/ad/hdvilj5ix8h-1777282516.jpg",
+            "bigBanner": "",
+            "bigBanner2": "https://res.ldrescdn.com/rms/upload/ad/6wfm0hba5vu-1777282498.jpg",
+            "adOptimizable": 0,
+            "googleOptimizable": 1,
+            "googleDetails": 1,
+            "fakeShortcut": 0,
+            "packageName": "com.dynastysoul.ld",
+            "autoDownload": false,
+            "iconUrl": "https://res.ldrescdn.com/rms/upload/ad/u77bsyhhlgk-1777282361.png",
+            "actionType": "2",
+            "gameType": "Role Playing",
+            "isAndroidUrl": "true",
+            "garouselImages": ",,",
+            "matching123": 1,
+            "label": "无",
+            "directLink": "com.dynastysoul.ld",
+            "adaptationVersion": "v3x86,v4x86,v4x64,v5x64",
+            "adaptationUrl": "",
+            "lowestVersion": "",
+            "searchImg": "",
+            "thirtyTwoBit4": "",
+            "sixtyFourBit4": "",
+            "sixtyFourBit5": "",
+            "language": "en",
+            "platform": "ANDROID"
+        },
+        {
+            "offerId": 931658,
+            "partner": "待定",
+            "income": "1",
+            "clickUrl": "com.dgame2.magic6.tojoy.ld",
+            "titleName": "Magic Journey: War of Heroes",
+            "bubbleText": "10000 Free Summons!!!",
+            "imageUrl": "https://res.ldrescdn.com/rms/upload/ad/22xncvjj7if-1765442109.jpg",
+            "imageUrl2": "https://res.ldrescdn.com/rms/upload/ad/8z3o435wovm-1765442123.jpg",
+            "appSimpleDesc": "Idle Fantasy Strategy RPG",
+            "banner": "https://res.ldrescdn.com/rms/upload/ad/fh9o8zok4pk-1765442136.jpg",
+            "bigBanner": "https://res.ldrescdn.com/rms/upload/ad/2tddtyyjwry-1765442145.jpg",
+            "bigBanner2": "https://res.ldrescdn.com/rms/upload/ad/9oqvtln63bs-1765442153.jpg",
+            "adOptimizable": 0,
+            "googleOptimizable": 1,
+            "googleDetails": 1,
+            "fakeShortcut": 0,
+            "packageName": "com.dgame2.magic6.tojoy.ld",
+            "autoDownload": false,
+            "iconUrl": "https://res.ldrescdn.com/rms/upload/ad/2crytlandct-1765442025.png",
+            "actionType": "2",
+            "gameType": "Idle RPG",
+            "isAndroidUrl": "true",
+            "garouselImages": ",,",
+            "matching123": 1,
+            "label": "无",
+            "directLink": "com.dgame2.magic6.tojoy.ld",
+            "adaptationVersion": "v3x86,v4x86,v4x64,v5x64",
+            "adaptationUrl": "",
+            "lowestVersion": "",
+            "searchImg": "",
+            "thirtyTwoBit4": "",
+            "sixtyFourBit4": "",
+            "sixtyFourBit5": "",
+            "language": "en",
+            "platform": "ANDROID"
+        },
+        {
+            "offerId": 995922,
+            "partner": "待定",
+            "income": "1",
+            "clickUrl": "com.battle.jocard.ld",
+            "titleName": "Jocard: Showdown",
+            "bubbleText": "Real-time Tactical Duel!",
+            "imageUrl": "https://res.ldrescdn.com/rms/upload/ad/o0k4woieozp-1765448889.jpg",
+            "imageUrl2": "https://res.ldrescdn.com/rms/upload/ad/tp4ftbszz2p-1765448899.jpg",
+            "appSimpleDesc": "Real-time Tactical Duel!",
+            "banner": "https://res.ldrescdn.com/rms/upload/ad/q5v0aquwbn-1765448908.jpg",
+            "bigBanner": "https://res.ldrescdn.com/rms/upload/ad/dxdl32ta59w-1765448920.jpg",
+            "bigBanner2": "https://res.ldrescdn.com/rms/upload/ad/afkdhnkxleb-1765448928.jpg",
+            "adOptimizable": 0,
+            "googleOptimizable": 1,
+            "googleDetails": 1,
+            "fakeShortcut": 0,
+            "packageName": "com.battle.jocard.ld",
+            "autoDownload": false,
+            "iconUrl": "https://res.ldrescdn.com/rms/upload/ad/9b5et07hbp-1765448835.png",
+            "actionType": "2",
+            "gameType": "Card",
+            "isAndroidUrl": "true",
+            "garouselImages": ",,",
+            "matching123": 1,
+            "label": "无",
+            "directLink": "com.battle.jocard.ld",
+            "adaptationVersion": "v3x86,v4x86,v4x64,v5x64",
+            "adaptationUrl": "",
+            "lowestVersion": "",
+            "searchImg": "",
+            "thirtyTwoBit4": "",
+            "sixtyFourBit4": "",
+            "sixtyFourBit5": "",
+            "language": "en",
+            "platform": "ANDROID"
+        }
+    ],
+    "preloads": [
+        {
+            "name": "BIN",
+            "count": 100
+        }
+    ],
+    "postions": [
+        {
+            "name": "Launcher",
+            "menuid": "",
+            "units": "931658,995922,143143",
+            "topUnits": "931658",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "Banner",
+            "menuid": "",
+            "units": "143143,995922,931658",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "Search",
+            "menuid": "",
+            "units": "143143,995922,931658",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "editorRecommended",
+            "menuid": "5",
+            "units": "143143,995922,931658",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "newGame",
+            "menuid": "59",
+            "units": "143143,995922,931658",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "topGame",
+            "menuid": "13",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "popularApp",
+            "menuid": "1",
+            "units": "143143",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "recentlyUpdated",
+            "menuid": "50",
+            "units": "143143",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "Detail",
+            "menuid": "",
+            "units": "143143,995922,931658",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "BannerTwo",
+            "menuid": "88",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "searchbanner",
+            "menuid": "99",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "Big_Banner",
+            "menuid": "",
+            "units": "143143,995922,931658",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "ldcloud",
+            "menuid": "",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "chatgpt",
+            "menuid": "",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "wujie",
+            "menuid": "",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "googleplay",
+            "menuid": "",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "picme",
+            "menuid": "",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "easyfun手游页banner",
+            "menuid": "",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "cloud_store",
+            "menuid": "",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "google_homepage_popup",
+            "menuid": "",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "google_navigation_popup",
+            "menuid": "",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "google_download_popup",
+            "menuid": "",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "google_search_popup",
+            "menuid": "",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        },
+        {
+            "name": "aireel",
+            "menuid": "",
+            "units": "",
+            "topUnits": "",
+            "platform": "ANDROID"
+        }
+    ],
+    "placements": [
+        {
+            "name": "LauncherBottom",
+            "units": "BIN,BIN,BIN,BIN,BIN,BIN,BIN"
+        },
+        {
+            "name": "AppStoreSearch",
+            "units": "BIN,BIN,BIN,BIN,BIN,BIN"
+        },
+        {
+            "name": "AppStoreMain",
+            "units": "BIN,BIN,BIN,BIN,BIN,BIN"
+        },
+        {
+            "name": "AppStoreDetail",
+            "units": "BIN"
+        }
+    ]
+}
